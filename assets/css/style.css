@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+div[id^="activity"] {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.block {
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px 0;
+}
+
+.blue { background-color: blue; }
+.red { background-color: red; }
+.green { background-color: green; }
+.yellow { background-color: yellow; color: black; }
+.purple { background-color: purple; }
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+p, h2 {
+    margin: 5px 0;
+}
